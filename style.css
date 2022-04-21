@@ -14,3 +14,10 @@ footer{
     height: 100px;
     background-color: rgb(60,60,60)
 }
+
+.alphabet {
+    font-size: 30px;
+    background-color: rgb(80,70,70);
+    color: rgb(0,255,0);
+    box-align: center;
+}
