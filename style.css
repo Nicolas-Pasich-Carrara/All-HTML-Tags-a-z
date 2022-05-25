@@ -1,8 +1,8 @@
 header {
     width: 100%;
     height: 160px;
-    background-color: crimson;
     margin-bottom: 60px;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -17,7 +17,36 @@ footer{
 
 .alphabet {
     font-size: 30px;
-    background-color: rgb(80,70,70);
-    color: rgb(0,255,0);
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0);
     box-align: center;
+    outline: 1px solid #000;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3px;
+    display: inline-block;
+    width: 30px;
+    height: 35px;
+}
+
+h2{
+    font-size: 70px;
+    margin-left: 40px;
+}
+
+p{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.atag{
+    outline: 2px solid;
+    width: 100%;
+    text-align: auto;
+}
+
+.demonstration{
+    margin-left: 600px;
+    font-size: 40px;
 }
