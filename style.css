@@ -35,7 +35,7 @@ h2{
 }
 
 p{
-    font-weight: 500;
+    font-weight: 600;
     font-size: 20px;
     margin-left: 40px;
 }
@@ -44,9 +44,10 @@ p{
     outline: 2px solid;
     width: 100%;
     text-align: auto;
+    display: inline-block;
 }
 
-.demonstration{
-    margin-left: 600px;
+.example{
     font-size: 40px;
+    text-align: center;
 }
