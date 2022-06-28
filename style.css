@@ -48,17 +48,22 @@ p{
     display: inline-block;
 }
 
-.exampleA{
+.example{
     outline: 2px solid;
     width: 49.5%;
     font-size: 40px;
-    text-align: center;
     display: inline-block;
     vertical-align: top;
     height: 1698px;
-    margin: auto;
 }
 
 .bbr{
     font-size: 40px;
+}
+
+.exam {
+    display: block;
+    height: 242px;
+    text-align: center;
+    outline: 2px solid;
 }
