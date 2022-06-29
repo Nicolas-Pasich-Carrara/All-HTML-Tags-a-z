@@ -46,6 +46,7 @@ p{
     width: 49.5%;
     text-align: auto;
     display: inline-block;
+    height: 1698px;
 }
 
 .example{
@@ -57,13 +58,15 @@ p{
     height: 1698px;
 }
 
-.bbr{
-    font-size: 40px;
-}
-
 .exam {
     display: block;
     height: 242px;
     text-align: center;
+    outline: 2px solid;
+}
+
+.tags {
+    display: 
+    height: 242px;
     outline: 2px solid;
 }
