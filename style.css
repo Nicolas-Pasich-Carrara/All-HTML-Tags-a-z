@@ -59,14 +59,22 @@ p{
 }
 
 .exam {
-    display: block;
+    display: flex;
     height: 242px;
     text-align: center;
     outline: 2px solid;
+    align-items: center;
+    justify-content: center;
 }
 
 .tags {
-    display: 
-    height: 242px;
+    display: flex;
     outline: 2px solid;
+    height: 242px;
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+h3 {
+    font-size: 20px;
 }
