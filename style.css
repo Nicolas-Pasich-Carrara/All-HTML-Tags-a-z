@@ -14,6 +14,7 @@ footer{
     height: 100px;
     background-color: rgb(60,60,60);
     margin-top: 100px;
+    display: block;
 }
 
 .alphabet {
@@ -32,7 +33,7 @@ footer{
 
 h2{
     font-size: 70px;
-    margin-left: 40px;
+    margin: 0px 40px;
 }
 
 p{
@@ -46,7 +47,6 @@ p{
     width: 49.5%;
     text-align: auto;
     display: inline-block;
-    height: 1698px;
 }
 
 .example{
@@ -55,7 +55,6 @@ p{
     font-size: 40px;
     display: inline-block;
     vertical-align: top;
-    height: 1698px;
 }
 
 .exam {
@@ -71,10 +70,15 @@ p{
     display: flex;
     outline: 2px solid;
     height: 242px;
-   align-items: center;
+    align-items: center;
    justify-content: space-evenly;
+   text-align: center;
 }
 
 h3 {
     font-size: 20px;
+}
+
+bdi {
+    font-size: 30px;
 }
