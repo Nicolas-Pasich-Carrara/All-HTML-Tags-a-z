@@ -63,7 +63,7 @@ p{
     text-align: center;
     outline: 2px solid;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .tags {
@@ -81,4 +81,12 @@ h3 {
 
 bdi {
     font-size: 30px;
+}
+
+blockquote {
+    font-size: 30px;
+}
+
+table, th, td {
+    border: 2px solid;
 }
