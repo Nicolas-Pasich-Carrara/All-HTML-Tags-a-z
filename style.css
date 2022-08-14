@@ -90,3 +90,15 @@ blockquote {
 table, th, td {
     border: 2px solid;
 }
+
+code{
+    font-weight: normal;
+}
+
+.colred{
+    background-color: rgb(255,0,0);
+}
+
+.colblue{
+    background-color: rgb(0,0,255);
+}
